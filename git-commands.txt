@@ -1,0 +1,7 @@
+git init- To initialise git repository
+git status- To check that text files are modified or changed.
+git log- To get the information of commit.
+git add- Adding modified changes to git repository.
+git commit -m "First commit" -> To add a checkpoint.
+git config - It sets user name to commit.
+git remove add origin - It is used to store link in origin.
